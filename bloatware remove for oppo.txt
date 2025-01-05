@@ -9,7 +9,6 @@ pm uninstall -k --user 0 com.coloros.avastofferwall
 pm uninstall -k --user 0 com.coloros.backuprestore
 pm uninstall -k --user 0 com.coloros.backuprestore.remoteservice
 pm uninstall -k --user 0 com.coloros.bootreg
-pm uninstall -k --user 0 com.coloros.calculator
 pm uninstall -k --user 0 com.coloros.childrenspace
 pm uninstall -k --user 0 com.coloros.compass2
 pm uninstall -k --user 0 com.coloros.encryption
